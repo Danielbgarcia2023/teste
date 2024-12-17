@@ -1,0 +1,28 @@
+
+1)Olá , tudo bem?
+Sua atividade ficou muito bem feita, usou corretamente o SQL na criação das permissões dos usuários e fez corretamente o documento de Backup.
+Parabéns por todo empenho demonstrado.
+att, Daniel Garcia
+
+2)
+Olá , tudo bem?
+Sua atividade ficou muito bem feita, usou corretamente o SQL na criação de procedure, trigger e function
+att, Daniel Garcia
+
+3)
+Olá , tudo bem?
+Sua atividade ficou muito bem feita, usou corretamente o SQL na agilização e análise das consultas
+Parabéns por todo empenho demonstrado.
+att, Daniel Garcia
+
+4)
+Olá , tudo bem?
+Sua atividade ficou muito bem feita, usou corretamente o SQL na normalização das tabelas com a 1fn, 2fn e 3fn
+Parabéns por todo empenho demonstrado.
+att, Daniel Garcia
+
+5)
+Olá , tudo bem?
+Sua atividade ficou muito bem feita, usou corretamente o s comandos dos inserção, atualização e busca no NoSQL.
+Parabéns por todo empenho demonstrado.
+att, Daniel Garcia
